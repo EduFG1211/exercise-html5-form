@@ -2,7 +2,7 @@ p {
     color: red;
     background-color: rgba(226, 149, 135, 0.856);
     border-radius: 5px;
-    margin: 10px;
+    margin-top: 10px;
     padding: 10px;
 }
 .inpmessage {
@@ -12,4 +12,11 @@ span {
     color: gray;
     font-size: 12px;
     font-weight: 500;
+}
+.bggray {
+    background-color: rgb(250, 244, 244);
+    margin: 0;
+    border: none;
+    margin: 0;
+    padding: 0;
 }
