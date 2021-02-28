@@ -1,0 +1,15 @@
+p {
+    color: red;
+    background-color: rgba(226, 149, 135, 0.856);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+.inpmessage {
+    height: 100px;
+}
+span {
+    color: gray;
+    font-size: 12px;
+    font-weight: 500;
+}
